@@ -6,4 +6,4 @@ Program assumes there is a valid solution to the maze; behaviour is undefined if
 
 ## Illustration
 
-[maze](maze.png)
+![maze](maze.png)
