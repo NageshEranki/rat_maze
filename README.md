@@ -14,6 +14,5 @@ Program assumes there is a valid solution to reach the bottom right corner, from
 
 ## Known Failure modes
 
-1. Multiple points of entry
-2. No exit at bottom right corner
-3. No solution
+1. No exit at bottom right corner
+2. No solution
