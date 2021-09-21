@@ -7,3 +7,7 @@ Program assumes there is a valid solution to the maze; behaviour is undefined if
 ## Illustration
 
 ![maze](maze.png)
+
+## Sample input
+
+![input](input.png)
